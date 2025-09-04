@@ -20,10 +20,6 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
 
-    /* If transpiling with TypeScript: */
-    "outDir": "dist",
-    "sourceMap": true,
-
     /* If your code runs in the DOM: */
     "lib": ["es2022", "dom", "dom.iterable"],
     "baseUrl": ".",
